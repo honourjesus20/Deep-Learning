@@ -42,3 +42,4 @@ To use Keras directly from TensorFlow
 from tensorflow import keras
 model = keras.Sequential([keras.layers.Dense(10, input_shape=(784,), activation='sigmoid')
 ```
+the flatten layer is normal connection, while the dense layer is interconnected to the next node
