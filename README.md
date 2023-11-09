@@ -43,12 +43,19 @@ from tensorflow import keras
 model = keras.Sequential([keras.layers.Dense(10, input_shape=(784,), activation='sigmoid')
 ```
 the flatten layer is normal connection,
+
 <img width="300" alt="image" src="https://github.com/honourjesus20/Deep-Learning/assets/96244548/8619983c-fa3f-4013-bc71-4dd5dfac4590">
 
 while the dense layer is interconnected in the hidden layer to the next node
+
 <img width="392" alt="image" src="https://github.com/honourjesus20/Deep-Learning/assets/96244548/0e76f1ef-499d-4ab0-8fe9-cf2124857200">
+
 A pictorial representation of an input and ouput layer
+
 <img width="268" alt="image" src="https://github.com/honourjesus20/Deep-Learning/assets/96244548/f1809cba-209b-4778-a63c-f1f97918310b">
+
 For Image you have have a pixel has a two dimensional array to represent, the image and supply the two dimensional array as input then flatten it to one array, for a 7 by 7 grid, the flatten array will be 49, then the input will be 49 neurons and be propagated to get a 10-output layer., the following has no hidden layer
+
 <img width="437" alt="image" src="https://github.com/honourjesus20/Deep-Learning/assets/96244548/84d8ba0e-3fe9-4da3-93e1-097cea8aad42">
+
 Will always first try to use a simple neural network where you have just input and output, next we have the hidden layers inserted
