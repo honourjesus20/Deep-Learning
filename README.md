@@ -61,3 +61,8 @@ For Image you have have a pixel has a two dimensional array to represent, the im
 <img width="437" alt="image" src="https://github.com/honourjesus20/Deep-Learning/assets/96244548/84d8ba0e-3fe9-4da3-93e1-097cea8aad42">
 
 Will always first try to use a simple neural network where you have just input and output, next we have the hidden layers inserted
+---
+### Derivatives are very important
+### Matrix multiplication
+
+<img width="470" alt="image" src="https://github.com/honourjesus20/Deep-Learning/assets/96244548/aa5fab94-13ed-41b7-ac2d-3c39fe553a80">
