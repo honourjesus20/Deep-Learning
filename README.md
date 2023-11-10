@@ -1,5 +1,6 @@
 # Deep-Learning
 
+[Disclaimer : this is what I learnt from Deep Learning Videos on YT by CodeBasics
 **Prerequisite** 
 Just basic knowledge of Python, pandas, and Scikit-learn
 It also requires both math and statistical knowledge
